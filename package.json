@@ -5,6 +5,9 @@
   "engines": {
     "node": ">=16.16.0"
   },
+"engines": {
+  "node": "18.x"
+ },
   "browserslist": [
     "defaults"
   ],
